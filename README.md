@@ -8,6 +8,7 @@ Toby Christmas
 Pablo Bueno Melchor
 Luis Armas Suarez
 Angela Cai
+Thomas Cohen Tanugi
 
 Introduction to project of creating something and having fun ??
 
@@ -30,6 +31,22 @@ One room, and objects to interact.
 
 5•	Bullet Hell game:
 Reach to the other side of room whilst Objects with different effect spawn to shoot you. Open to different theme.
+--------------------------------------------------------------------------------------------------------------------------------
+
+6) Paint Game (puzzle/platformer):
+You are trapped in the darkness, and you need to find your way by shooting ink/paint that will LIGHT up the way. If you put too much paint, you will be blinded by the light.
+
+7) Tank Transform (3rd person):
+You control a vehicle that can transform into a tank, a jet and a giant mech. Each form has an ability that is specific to it. The Tank can shoot, the plane can fly, the mech can pick stuff up/zoom.
+
+8) Control 2 characters:
+You control two different characters/objects. Both need to reach the end point if you wish to move on to the second level. The player must switch between the objects in order to solve the puzzles.
+
+9) Binding of Isaac inspired game:
+A recreate of the binding of Isaac, but the player can only shoot for a very limited amount of time, and in order properly manage his bullets, must draw on the touchpad to switch weapons.
+
+
+
 
 
 
