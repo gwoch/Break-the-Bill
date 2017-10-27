@@ -3,14 +3,14 @@ Team project to build a level.
 
 Break the Bill Team Project
 
-Gabriela Woch
-Toby Christmas
-Pablo Bueno Melchor
-Luis Armas Suarez
-Angela Cai
-Thomas Cohen Tanugi
+Gabriela Woch;
+Toby Christmas;
+Pablo Bueno Melchor;
+Luis Armas Suarez;
+Angela Cai;
+Thomas Cohen Tanugi;
 
-Introduction to project of creating something and having fun ??
+Introduction to project of creating something and having fun
 
 Game Perspective Format 
 1st Person Format (open to 3rd person if we have a rigged model we want to use).
@@ -36,6 +36,9 @@ Reach to the other side of room whilst Objects with different effect spawn to sh
 
 --------------------------------------------------------------------------------------------------------------------------------
 
+
+
+
 6) Paint Game (puzzle/platformer):
 You are trapped in the darkness, and you need to find your way by shooting ink/paint that will LIGHT up the way. If you put too much paint, you will be blinded by the light.
 
@@ -52,7 +55,7 @@ A recreate of the binding of Isaac, but the player can only shoot for a very lim
 
 
 
-
+--------------------------------------------------------------------------------------------------------------------------------
 
 
 1•	Escape Room concept ideas:
