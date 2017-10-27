@@ -15,27 +15,27 @@ Game Perspective Format
 1st Person Format (open to 3rd person if we have a rigged model we want to use).
 
 Concept Ideas
-1•	Escape Room : 
+1â€¢	Escape Room : 
 One or two room, objects to interact, puzzle game. Open for ideas on the theme of the room. 
 
-2•	Run away game:
+2â€¢	Runnner game:
 Running away from multiple enemies and can be open to idea of level design. 
 
-3•	Mystery Game:
+3â€¢	Mystery Game:
 One room, object to interact, solve the mystery?
 
-4•	You vs CPU:
+4â€¢	You vs CPU:
 Can create a simple board game to go against the CPU (chess/0 and Xs etc.)
 One room, and objects to interact.
 
-5•	Bullet Hell game:
+5â€¢	Bullet Hell game:
 Reach to the other side of room whilst Objects with different effect spawn to shoot you. Open to different theme.
 
 
 
 
 
-1•	Escape Room concept ideas:
+1â€¢	Escape Room concept ideas:
 get in the house: lock outside, we are trying to get in before the sun sets. OWe can interact with objets scatered in the garden. some give us clues about a back story, others make us progress in solving the puzzle.
 Like, its a magnetic door, electricity is off, where is the fuze box, where is the key for the box...
 maybe if you go in a corner there is a character that give you clues but you can't be sure his is not lying. interactive sound design, music themes depending on where you are and what stage of the game you are or what object you areholding.
