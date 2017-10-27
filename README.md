@@ -18,7 +18,7 @@ Concept Ideas
 1•	Escape Room : 
 One or two room, objects to interact, puzzle game. Open for ideas on the theme of the room. 
 
-2•	Runnner game:
+2•	Runner game:
 Running away from multiple enemies and can be open to idea of level design. 
 
 3•	Mystery Game:
