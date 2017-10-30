@@ -1,4 +1,4 @@
-# Break-the-Bill
+﻿# Break-the-Bill
 Team project to build a level.
 
 Break the Bill Team Project
@@ -64,6 +64,27 @@ Like, its a magnetic door, electricity is off, where is the fuze box, where is t
 maybe if you go in a corner there is a character that give you clues but you can't be sure his is not lying. interactive sound design, music themes depending on where you are and what stage of the game you are or what object you areholding.
 activate switches and levers - location + object (liek shining a torch light at a window).
 
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+Special effect or animation Ideas
+
+Just cool little effect we could program that would make the level look cool.
+
+a)	The entire room transforming into another room:
+the room can break apart and flip into something completely different.
+
+Good example: https://www.youtube.com/watch?v=l1jyUAtxh-8
+[Watch between 1:25 - 1:37 to see what I mean]
+
+Open to a game idea where you as the player get chased by an entity and your only option is to run. Run down the hallways and to see the room changing right in front of you. Yout only salvation is a glowing light that you have to follow to avoid being consume by the darkness. This would a fast pace game.
+
+b)	Force Field or the player surrounded by a mystical glow:
+Possibly following from idea 6) a sphere shape around the player can help indicate lighting or where your paint gun will shoot.
+c)	Gravity ride: 
+Have the character move in some multiple phases of low and high gravity depend on which room you are in.
+
+--------------------------------------------------------------------------------------------------------------------------------
 
 
 
