@@ -82,6 +82,8 @@ activate switches and levers - location + object (liek shining a torch light at 
 
 16• The cake is a LIE: This is more a concept/background story that could be mixed with any of the mechanics for games that we have already proposed, but I'll just write it in here. You discover that your life, that has always been normal, is a whole lie and you are inside a laboratory where they are making experiments with you. However, the scientifics dont know that you are already aware of your situations so you have to keep them thinking like that if you want to survive and scape. If they discover that you know that you are inside an experiment, you die.
 
+17• Annoying kid: You are a kid that is in a restaurant with your parents and their friends, but you are extremely bored and you want them to go home. You have to find the way to annoy them enough so they take you home, but they can't know that you did it because they will ground you otherwise.
+
 --------------------------------------------------------------------------------------------------------------------------------
 Special effect or animation Ideas
 
