@@ -66,13 +66,16 @@ This is a 1rst POV game, where the player must sneak around the enemy base to co
 --------------------------------------------------------------------------------------------------------------------------------
 
 
-1•	Escape Room concept ideas:
+13•	Escape Room concept ideas:
 get in the house: lock outside, we are trying to get in before the sun sets. OWe can interact with objets scatered in the garden. some give us clues about a back story, others make us progress in solving the puzzle.
 Like, its a magnetic door, electricity is off, where is the fuze box, where is the key for the box...
 maybe if you go in a corner there is a character that give you clues but you can't be sure his is not lying. interactive sound design, music themes depending on where you are and what stage of the game you are or what object you areholding.
 activate switches and levers - location + object (liek shining a torch light at a window).
 
 
+
+--------------------------------------------------------------------------------------------------------------------------------
+14• 3D glasses: This is kind of inspired in the paint game. Basically the character has a pair of speciall 3D glasses (the one with red and blue coloured glasses) that, when you use them and you look just thorugh one eye (for example, the one looking thrugh the red glass) you see all the room/environment in that colour and there are sme objects/actions that can only be seen/done when you look through one eye or the other. Basically we would have three modes, the blue mode, the red mode and a third mode when we have both eyes open, and we have to solve puzzles/the mystery using that.
 
 --------------------------------------------------------------------------------------------------------------------------------
 Special effect or animation Ideas
