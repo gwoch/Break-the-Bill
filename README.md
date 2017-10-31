@@ -51,6 +51,14 @@ You control two different characters/objects. Both need to reach the end point i
 9) Binding of Isaac inspired game:
 A recreate of the binding of Isaac, but the player can only shoot for a very limited amount of time, and in order properly manage his bullets, must draw on the touchpad to switch weapons.
 
+10) Paint game 2 
+This is based off of Portal and Splatoon. In this game, the player cannot move left/right/forward/backward. He can only 'teleport' from one place to another by spraying paint in a specific area. Keeping in mind that the player has an extremely limited supply of paint, and if, for whatever reason, he leaves the area painted, he is paralyzed and cannot move.
+
+11) Defenders Intersection
+This is an FPS game, but the player does not fight holding a gun - in fact, he cannot fight at all. He can only defend himself from enemy attacks by using his two shields - each having a limited energy supply. In order to defeat his enemies, he must use his creativity (we'll also leave some pointers) to advance in the game. 
+
+12) Spy game.
+This is a 1rst POV game, where the player must sneak around the enemy base to complete a mission (retrieve information, etc.) and must not be killed. The player has a number of different skills that can be unlocked, but he or she is incapable of directly harming anyone (no guns, no knives, etc).
 
 
 
