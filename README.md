@@ -84,6 +84,8 @@ activate switches and levers - location + object (liek shining a torch light at 
 
 17• Annoying kid: You are a kid that is in a restaurant with your parents and their friends, but you are extremely bored and you want them to go home. You have to find the way to annoy them enough so they take you home, but they can't know that you did it because they will ground you otherwise.
 
+18• Blind mole: You are a mole/blind animal/whatever and you can't see shit so you have to use a kind of radar to see things
+
 --------------------------------------------------------------------------------------------------------------------------------
 Special effect or animation Ideas
 
