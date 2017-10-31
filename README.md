@@ -77,6 +77,8 @@ activate switches and levers - location + object (liek shining a torch light at 
 --------------------------------------------------------------------------------------------------------------------------------
 14• 3D glasses: This is kind of inspired in the paint game. Basically the character has a pair of speciall 3D glasses (the one with red and blue coloured glasses) that, when you use them and you look just thorugh one eye (for example, the one looking thrugh the red glass) you see all the room/environment in that colour and there are sme objects/actions that can only be seen/done when you look through one eye or the other. Basically we would have three modes, the blue mode, the red mode and a third mode when we have both eyes open, and we have to solve puzzles/the mystery using that.
 
+
+15• Telekinetic prisoner: In this game the character is completely inmovilized, he/she/it is attatched to a kind of litter in a laboratory and has to scape using the objects in the room with his/her/its telekinetic power. It is impossible that the character moves in the entire game, so if you wanna move him, you have to move the litter/whatever he is attatched to.
 --------------------------------------------------------------------------------------------------------------------------------
 Special effect or animation Ideas
 
