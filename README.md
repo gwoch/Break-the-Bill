@@ -79,6 +79,9 @@ activate switches and levers - location + object (liek shining a torch light at 
 
 
 15• Telekinetic prisoner: In this game the character is completely inmovilized, he/she/it is attatched to a kind of litter in a laboratory and has to scape using the objects in the room with his/her/its telekinetic power. It is impossible that the character moves in the entire game, so if you wanna move him, you have to move the litter/whatever he is attatched to.
+
+16• The cake is a LIE: This is more a concept/background story that could be mixed with any of the mechanics for games that we have already proposed, but I'll just write it in here. You discover that your life, that has always been normal, is a whole lie and you are inside a laboratory where they are making experiments with you. However, the scientifics dont know that you are already aware of your situations so you have to keep them thinking like that if you want to survive and scape. If they discover that you know that you are inside an experiment, you die.
+
 --------------------------------------------------------------------------------------------------------------------------------
 Special effect or animation Ideas
 
