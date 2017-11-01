@@ -87,6 +87,15 @@ activate switches and levers - location + object (liek shining a torch light at 
 18• Blind mole: You are a mole/blind animal/whatever and you can't see shit so you have to use a kind of radar to see things
 
 --------------------------------------------------------------------------------------------------------------------------------
+
+19· Piloting: pov from inside the cockpit or behind the plane, trying to accomplish combat missions while dealing with horrible weather or severe unpredictable turbulence
+
+20· 3D Maze Running: given a partial navigation map of your current surroundings and there's a countdown so you could see number of paths closing as time moves on
+
+21· Cafe/Pub Waiting: basically a customer serving game, you need to make sure overall satisfication level is positive; numbers of customers and complexity of (disappearing) orders will increase over time, you need to turn around and make sure you're serving the right amount of drinks and cream etc
+
+--------------------------------------------------------------------------------------------------------------------------------
+
 Special effect or animation Ideas
 
 Just cool little effect we could program that would make the level look cool.
