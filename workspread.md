@@ -10,6 +10,10 @@ Luis Armas Suarez;
 Angela Cai;
 Thomas Cohen Tanugi;
 
+
+here is the link to the tasks spreadsheet 
+https://docs.google.com/spreadsheets/d/1V-TAk2rd6Zj2jmPMavTITcL-km29kp42TvRv56Jpzac/edit?usp=sharing
+
 game levels
 
 -garden
