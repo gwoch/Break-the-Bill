@@ -357,3 +357,155 @@ LogInit: Object subsystem initialized
 [2017.11.28-17.39.52:257][805]Cmd: MAP CHECKDEP NOCLEARLOG
 [2017.11.28-17.39.52:320][805]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.878ms to complete.
 [2017.11.28-17.39.52:320][805]LogFileHelpers: Loading map 'Our_Nightmare' took 0.103
+[2017.11.28-17.49.21:082][ 93]Cmd: TRANSACTION UNDO
+[2017.11.28-17.49.21:082][ 93]LogEditorTransaction: Undo Move Actors
+[2017.11.28-17.51.20:343][814]Cmd: TRANSACTION UNDO
+[2017.11.28-17.51.20:343][814]LogEditorTransaction: Undo Move Actors
+[2017.11.28-17.52.26:131][178]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-17.52.26:156][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-17.52.26:156][178]PIE: New page: PIE session: Our_Nightmare (28 Nov 2017 17:52:26)
+[2017.11.28-17.52.26:156][178]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare
+[2017.11.28-17.52.26:158][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002009s)
+[2017.11.28-17.52.26:159][178]LogAIModule: Creating AISystem for world Our_Nightmare
+[2017.11.28-17.52.26:159][178]LogPlayLevel: PIE: World Init took: (0.001075s)
+[2017.11.28-17.52.26:160][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Our_Nightmare.Our_Nightmare to /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare.Our_Nightmare (0.003371s)
+[2017.11.28-17.52.26:173][178]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-17.52.26:189][178]LogInit: FAudioDevice initialized.
+[2017.11.28-17.52.26:233][178]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.28-17.52.26:236][178]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare.Our_Nightmare up for play (max tick rate 60) at 2017.11.28-17.52.26
+[2017.11.28-17.52.26:236][178]LogWorld: Bringing up level for play took: 0.001035
+[2017.11.28-17.52.26:294][178]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0018 seconds. Added 11 classes and 0 folders.
+[2017.11.28-17.52.26:297][178]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare 0.089
+[2017.11.28-17.52.40:361][  1]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2017.11.28-17.52.50:356][599]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-17.52.50:367][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-17.52.50:367][599]PIE: New page: PIE session: Our_Nightmare (28 Nov 2017 17:52:50)
+[2017.11.28-17.52.50:367][599]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare
+[2017.11.28-17.52.50:370][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003073s)
+[2017.11.28-17.52.50:371][599]LogAIModule: Creating AISystem for world Our_Nightmare
+[2017.11.28-17.52.50:372][599]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2017.11.28-17.52.50:372][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Our_Nightmare.Our_Nightmare to /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare.Our_Nightmare (0.004658s)
+[2017.11.28-17.52.50:383][599]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-17.52.50:393][599]LogInit: FAudioDevice initialized.
+[2017.11.28-17.52.50:428][599]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.28-17.52.50:430][599]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare.Our_Nightmare up for play (max tick rate 60) at 2017.11.28-17.52.50
+[2017.11.28-17.52.50:430][599]LogWorld: Bringing up level for play took: 0.001021
+[2017.11.28-17.52.50:432][599]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare 0.224
+[2017.11.28-17.52.56:262][937]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.11.28-17.53.18:636][264]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2017.11.28-17.53.19:401][308]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2017.11.28-17.53.31:722][ 41]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-17.53.31:733][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-17.53.31:734][ 41]PIE: New page: PIE session: Our_Nightmare (28 Nov 2017 17:53:31)
+[2017.11.28-17.53.31:734][ 41]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare
+[2017.11.28-17.53.31:736][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002300s)
+[2017.11.28-17.53.31:737][ 41]LogAIModule: Creating AISystem for world Our_Nightmare
+[2017.11.28-17.53.31:737][ 41]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2017.11.28-17.53.31:737][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Our_Nightmare.Our_Nightmare to /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare.Our_Nightmare (0.003587s)
+[2017.11.28-17.53.31:748][ 41]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-17.53.31:759][ 41]LogInit: FAudioDevice initialized.
+[2017.11.28-17.53.31:790][ 41]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.28-17.53.31:792][ 41]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare.Our_Nightmare up for play (max tick rate 60) at 2017.11.28-17.53.31
+[2017.11.28-17.53.31:792][ 41]LogWorld: Bringing up level for play took: 0.001363
+[2017.11.28-17.53.31:794][ 41]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare -0.413
+[2017.11.28-17.53.55:158][426]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-17.53.55:169][426]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-17.53.55:170][426]PIE: New page: PIE session: Our_Nightmare (28 Nov 2017 17:53:55)
+[2017.11.28-17.53.55:170][426]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare
+[2017.11.28-17.53.55:172][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001820s)
+[2017.11.28-17.53.55:172][426]LogAIModule: Creating AISystem for world Our_Nightmare
+[2017.11.28-17.53.55:173][426]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2017.11.28-17.53.55:173][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Our_Nightmare.Our_Nightmare to /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare.Our_Nightmare (0.002850s)
+[2017.11.28-17.53.55:183][426]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-17.53.55:194][426]LogInit: FAudioDevice initialized.
+[2017.11.28-17.53.55:226][426]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.28-17.53.55:228][426]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare.Our_Nightmare up for play (max tick rate 60) at 2017.11.28-17.53.55
+[2017.11.28-17.53.55:229][426]LogWorld: Bringing up level for play took: 0.001225
+[2017.11.28-17.53.55:230][426]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare 1.022
+[2017.11.28-17.54.28:057][379]Cmd: TRANSACTION UNDO
+[2017.11.28-17.54.28:057][379]LogEditorTransaction: Undo Edit Offset
+[2017.11.28-17.54.32:608][652]Cmd: TRANSACTION UNDO
+[2017.11.28-17.54.32:608][652]LogEditorTransaction: Undo Edit Offset
+[2017.11.28-17.54.40:878][148]Cmd: TRANSACTION UNDO
+[2017.11.28-17.54.40:878][148]LogEditorTransaction: Undo Edit Offset
+[2017.11.28-17.54.41:187][166]Cmd: TRANSACTION UNDO
+[2017.11.28-17.54.41:187][166]LogEditorTransaction: Undo Edit Offset
+[2017.11.28-17.54.44:378][357]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-17.54.44:389][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-17.54.44:389][357]PIE: New page: PIE session: Our_Nightmare (28 Nov 2017 17:54:44)
+[2017.11.28-17.54.44:389][357]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare
+[2017.11.28-17.54.44:391][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002010s)
+[2017.11.28-17.54.44:392][357]LogAIModule: Creating AISystem for world Our_Nightmare
+[2017.11.28-17.54.44:392][357]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2017.11.28-17.54.44:392][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Our_Nightmare.Our_Nightmare to /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare.Our_Nightmare (0.002991s)
+[2017.11.28-17.54.44:402][357]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-17.54.44:415][357]LogInit: FAudioDevice initialized.
+[2017.11.28-17.54.44:446][357]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.28-17.54.44:448][357]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare.Our_Nightmare up for play (max tick rate 60) at 2017.11.28-17.54.44
+[2017.11.28-17.54.44:448][357]LogWorld: Bringing up level for play took: 0.001188
+[2017.11.28-17.54.44:451][357]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare 0.243
+[2017.11.28-17.55.46:320][ 52]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-17.55.46:332][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-17.55.46:332][ 52]PIE: New page: PIE session: Our_Nightmare (28 Nov 2017 17:55:46)
+[2017.11.28-17.55.46:332][ 52]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare
+[2017.11.28-17.55.46:334][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001938s)
+[2017.11.28-17.55.46:335][ 52]LogAIModule: Creating AISystem for world Our_Nightmare
+[2017.11.28-17.55.46:335][ 52]LogPlayLevel: PIE: World Init took: (0.001006s)
+[2017.11.28-17.55.46:335][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Our_Nightmare.Our_Nightmare to /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare.Our_Nightmare (0.003224s)
+[2017.11.28-17.55.46:346][ 52]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-17.55.46:359][ 52]LogInit: FAudioDevice initialized.
+[2017.11.28-17.55.46:391][ 52]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.28-17.55.46:393][ 52]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare.Our_Nightmare up for play (max tick rate 60) at 2017.11.28-17.55.46
+[2017.11.28-17.55.46:394][ 52]LogWorld: Bringing up level for play took: 0.001395
+[2017.11.28-17.55.46:396][ 52]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare 0.188
+[2017.11.28-17.56.15:352][216]LogSavePackage: Save=20.45ms
+[2017.11.28-17.56.15:352][216]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Saved/Our_NightmareD90F213A4F0B0A14A79B6EA2B4E89FD9.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Maps/Our_Nightmare.umap'
+[2017.11.28-17.56.15:356][216]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Maps/Our_Nightmare.umap
+[2017.11.28-17.57.27:683][680]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-17.57.27:695][680]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-17.57.27:695][680]PIE: New page: PIE session: Our_Nightmare (28 Nov 2017 17:57:27)
+[2017.11.28-17.57.27:695][680]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare
+[2017.11.28-17.57.27:697][680]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001774s)
+[2017.11.28-17.57.27:698][680]LogAIModule: Creating AISystem for world Our_Nightmare
+[2017.11.28-17.57.27:698][680]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2017.11.28-17.57.27:698][680]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Our_Nightmare.Our_Nightmare to /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare.Our_Nightmare (0.003124s)
+[2017.11.28-17.57.27:709][680]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-17.57.27:721][680]LogInit: FAudioDevice initialized.
+[2017.11.28-17.57.27:752][680]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.28-17.57.27:754][680]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare.Our_Nightmare up for play (max tick rate 60) at 2017.11.28-17.57.27
+[2017.11.28-17.57.27:754][680]LogWorld: Bringing up level for play took: 0.001072
+[2017.11.28-17.57.27:756][680]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare -0.451
+[2017.11.28-17.57.47:570][852]EditorErrors: New page: Actor attachment
+[2017.11.28-17.58.04:777][883]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-17.58.04:788][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-17.58.04:789][883]PIE: New page: PIE session: Our_Nightmare (28 Nov 2017 17:58:04)
+[2017.11.28-17.58.04:789][883]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare
+[2017.11.28-17.58.04:791][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001907s)
+[2017.11.28-17.58.04:792][883]LogAIModule: Creating AISystem for world Our_Nightmare
+[2017.11.28-17.58.04:792][883]LogPlayLevel: PIE: World Init took: (0.001069s)
+[2017.11.28-17.58.04:792][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Our_Nightmare.Our_Nightmare to /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare.Our_Nightmare (0.003212s)
+[2017.11.28-17.58.04:804][883]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-17.58.04:817][883]LogInit: FAudioDevice initialized.
+[2017.11.28-17.58.04:847][883]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.28-17.58.04:850][883]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare.Our_Nightmare up for play (max tick rate 60) at 2017.11.28-17.58.04
+[2017.11.28-17.58.04:851][883]LogWorld: Bringing up level for play took: 0.002440
+[2017.11.28-17.58.04:853][883]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare 0.645
+[2017.11.28-17.58.23:813][  5]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-17.58.23:824][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-17.58.23:824][  5]PIE: New page: PIE session: Our_Nightmare (28 Nov 2017 17:58:23)
+[2017.11.28-17.58.23:824][  5]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare
+[2017.11.28-17.58.23:826][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001653s)
+[2017.11.28-17.58.23:827][  5]LogAIModule: Creating AISystem for world Our_Nightmare
+[2017.11.28-17.58.23:827][  5]LogPlayLevel: PIE: World Init took: (0.000984s)
+[2017.11.28-17.58.23:827][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Our_Nightmare.Our_Nightmare to /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare.Our_Nightmare (0.002892s)
+[2017.11.28-17.58.23:838][  5]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-17.58.23:849][  5]LogInit: FAudioDevice initialized.
+[2017.11.28-17.58.23:882][  5]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.28-17.58.23:884][  5]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare.Our_Nightmare up for play (max tick rate 60) at 2017.11.28-17.58.23
+[2017.11.28-17.58.23:884][  5]LogWorld: Bringing up level for play took: 0.001132
+[2017.11.28-17.58.23:886][  5]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Our_Nightmare -0.322
+[2017.11.28-17.58.49:234][521]LogEditorViewport: Clicking Background
+[2017.11.28-18.00.36:854][651]LogAIModule: Creating AISystem for world Gabi_Nightmare
+[2017.11.28-18.00.51:183][507]LogSavePackage: Save=25.48ms
+[2017.11.28-18.00.51:183][507]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Saved/Our_NightmareD4A5C3684F40C4136F862F918CFE805F.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Maps/Our_Nightmare.umap'
+[2017.11.28-18.00.51:193][507]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Maps/Our_Nightmare.umap
