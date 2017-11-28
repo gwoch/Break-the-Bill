@@ -570,3 +570,168 @@ LogInit: Object subsystem initialized
 [2017.11.28-22.33.22:503][498]LogSavePackage: Save=113.76ms
 [2017.11.28-22.33.22:503][498]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Saved/Gabi_Nightmare13459B894445730EF55A84BE355B8260.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Maps/Gabi_Nightmare.umap'
 [2017.11.28-22.33.22:509][498]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Maps/Gabi_Nightmare.umap
+[2017.11.28-22.43.47:640][950]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Gameplay/Framework/Pawn/Character/index.html?utm_source=editor&utm_medium=docs&utm_campaign=cb_docs
+[2017.11.28-22.43.54:014][114]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2017.11.28-22.43.55:012][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.28-22.43.55:505][195]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.11.28-22.43.56:276][235]LogEditorViewport: Clicking on Actor (context menu): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.11.28-22.44.34:233][494]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-22.44.34:252][494]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare' with GeneratedClass '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare'
+[2017.11.28-22.44.34:252][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-22.44.34:252][494]PIE: New page: PIE session: Gabi_Nightmare (28 Nov 2017 22:44:34)
+[2017.11.28-22.44.34:253][494]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare
+[2017.11.28-22.44.34:258][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005180s)
+[2017.11.28-22.44.34:260][494]LogAIModule: Creating AISystem for world Gabi_Nightmare
+[2017.11.28-22.44.34:260][494]LogPlayLevel: PIE: World Init took: (0.002176s)
+[2017.11.28-22.44.34:260][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare to /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare.Gabi_Nightmare (0.007799s)
+[2017.11.28-22.44.34:314][494]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-22.44.34:327][494]LogInit: FAudioDevice initialized.
+[2017.11.28-22.44.34:358][494]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.28-22.44.34:361][494]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare.Gabi_Nightmare up for play (max tick rate 60) at 2017.11.28-22.44.34
+[2017.11.28-22.44.34:362][494]LogWorld: Bringing up level for play took: 0.002533
+[2017.11.28-22.44.34:364][494]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare 0.081
+[2017.11.28-22.44.34:364][494]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare' with GeneratedClass '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare'
+[2017.11.28-22.45.07:420][476]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare' with GeneratedClass '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare'
+[2017.11.28-22.45.07:513][476]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare' with GeneratedClass '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare'
+[2017.11.28-22.45.14:412][879]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.11.28-22.45.15:124][921]Cmd: DELETE
+[2017.11.28-22.45.15:124][921]Cmd: ACTOR DELETE
+[2017.11.28-22.45.15:124][921]LogEditorActor: Deleted Actor: FirstPersonCharacter_C
+[2017.11.28-22.45.15:169][921]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2017.11.28-22.45.58:522][288]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.11.28-22.45.58:602][292]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (VR_Gun)
+[2017.11.28-22.45.59:192][315]LogSavePackage: Save=110.77ms
+[2017.11.28-22.45.59:192][315]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Saved/Gabi_Nightmare_Auto88E77E1FE48201E35F060DBB51DC86A97.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Saved/Autosaves/Game/FirstPersonBP/Maps/Gabi_Nightmare_Auto8.umap'
+[2017.11.28-22.45.59:195][315]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Saved/Autosaves/Game/FirstPersonBP/Maps/Gabi_Nightmare_Auto8.umap
+[2017.11.28-22.45.59:197][315]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Gabi_Nightmare' took 0.145
+[2017.11.28-22.45.59:197][315]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.145
+[2017.11.28-22.45.59:201][315]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2017.11.28-22.45.59:234][315]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2017.11.28-22.45.59:234][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2017.11.28-22.45.59:379][315]LogSavePackage: Save=139.33ms
+[2017.11.28-22.45.59:379][315]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Saved/FirstPersonCharacter_Auto87E80B0164624EBBB0D4915B385E23DB7.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto8.uasset'
+[2017.11.28-22.45.59:381][315]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto8.uasset
+[2017.11.28-22.45.59:381][315]LogFileHelpers: Auto-saving content packages took 0.181
+[2017.11.28-22.46.08:426][831]LogRenderer: Reallocating scene render targets to support 1200x748 Format 10 NumSamples 1 (Frame:1).
+[2017.11.28-22.53.07:872][692]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.28-22.53.13:996][ 48]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-22.53.14:032][ 48]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare' with GeneratedClass '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare'
+[2017.11.28-22.53.14:032][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-22.53.14:032][ 48]PIE: New page: PIE session: Gabi_Nightmare (28 Nov 2017 22:53:14)
+[2017.11.28-22.53.14:032][ 48]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare
+[2017.11.28-22.53.14:039][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006825s)
+[2017.11.28-22.53.14:041][ 48]LogAIModule: Creating AISystem for world Gabi_Nightmare
+[2017.11.28-22.53.14:041][ 48]LogPlayLevel: PIE: World Init took: (0.002068s)
+[2017.11.28-22.53.14:041][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare to /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare.Gabi_Nightmare (0.009424s)
+[2017.11.28-22.53.14:091][ 48]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-22.53.14:103][ 48]LogInit: FAudioDevice initialized.
+[2017.11.28-22.53.14:145][ 48]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.28-22.53.14:154][ 48]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare.Gabi_Nightmare up for play (max tick rate 60) at 2017.11.28-22.53.14
+[2017.11.28-22.53.14:156][ 48]LogWorld: Bringing up level for play took: 0.008635
+[2017.11.28-22.53.14:164][ 48]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare -0.119
+[2017.11.28-22.53.14:164][ 48]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare' with GeneratedClass '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare'
+[2017.11.28-22.53.18:514][307]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare' with GeneratedClass '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare'
+[2017.11.28-22.53.18:586][307]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare' with GeneratedClass '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare'
+[2017.11.28-22.53.23:685][599]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2017.11.28-22.53.24:528][646]Cmd: DELETE
+[2017.11.28-22.53.24:528][646]Cmd: ACTOR DELETE
+[2017.11.28-22.53.24:528][646]LogEditorActor: Deleted Actor: PlayerStart
+[2017.11.28-22.53.24:546][646]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.11.28-22.53.25:632][711]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-22.53.25:644][711]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare' with GeneratedClass '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare'
+[2017.11.28-22.53.25:644][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-22.53.25:644][711]PIE: New page: PIE session: Gabi_Nightmare (28 Nov 2017 22:53:25)
+[2017.11.28-22.53.25:645][711]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare
+[2017.11.28-22.53.25:649][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004877s)
+[2017.11.28-22.53.25:651][711]LogAIModule: Creating AISystem for world Gabi_Nightmare
+[2017.11.28-22.53.25:651][711]LogPlayLevel: PIE: World Init took: (0.001649s)
+[2017.11.28-22.53.25:651][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare to /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare.Gabi_Nightmare (0.006862s)
+[2017.11.28-22.53.25:673][711]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-22.53.25:688][711]LogInit: FAudioDevice initialized.
+[2017.11.28-22.53.25:720][711]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.28-22.53.25:723][711]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare.Gabi_Nightmare up for play (max tick rate 60) at 2017.11.28-22.53.25
+[2017.11.28-22.53.25:723][711]LogWorld: Bringing up level for play took: 0.002567
+[2017.11.28-22.53.25:725][711]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare -0.558
+[2017.11.28-22.53.25:725][711]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare' with GeneratedClass '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare'
+[2017.11.28-22.53.27:781][833]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare' with GeneratedClass '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare'
+[2017.11.28-22.53.27:822][833]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare' with GeneratedClass '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare'
+[2017.11.28-22.53.29:450][928]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.11.28-22.53.50:651][189]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-22.53.50:663][189]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare' with GeneratedClass '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare'
+[2017.11.28-22.53.50:663][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-22.53.50:664][189]PIE: New page: PIE session: Gabi_Nightmare (28 Nov 2017 22:53:50)
+[2017.11.28-22.53.50:664][189]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare
+[2017.11.28-22.53.50:669][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005359s)
+[2017.11.28-22.53.50:670][189]LogAIModule: Creating AISystem for world Gabi_Nightmare
+[2017.11.28-22.53.50:670][189]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2017.11.28-22.53.50:671][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare to /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare.Gabi_Nightmare (0.006864s)
+[2017.11.28-22.53.50:717][189]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-22.53.50:727][189]LogInit: FAudioDevice initialized.
+[2017.11.28-22.53.50:758][189]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.28-22.53.50:760][189]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare.Gabi_Nightmare up for play (max tick rate 60) at 2017.11.28-22.53.50
+[2017.11.28-22.53.50:761][189]LogWorld: Bringing up level for play took: 0.002206
+[2017.11.28-22.53.50:762][189]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare 0.479
+[2017.11.28-22.53.50:762][189]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare' with GeneratedClass '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare'
+[2017.11.28-22.53.54:398][406]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare' with GeneratedClass '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare'
+[2017.11.28-22.53.54:478][406]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare' with GeneratedClass '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare'
+[2017.11.28-22.53.59:242][677]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-22.53.59:255][677]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare' with GeneratedClass '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare'
+[2017.11.28-22.53.59:255][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-22.53.59:256][677]PIE: New page: PIE session: Gabi_Nightmare (28 Nov 2017 22:53:59)
+[2017.11.28-22.53.59:256][677]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare
+[2017.11.28-22.53.59:261][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005349s)
+[2017.11.28-22.53.59:262][677]LogAIModule: Creating AISystem for world Gabi_Nightmare
+[2017.11.28-22.53.59:262][677]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2017.11.28-22.53.59:262][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare to /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare.Gabi_Nightmare (0.006594s)
+[2017.11.28-22.53.59:310][677]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-22.53.59:323][677]LogInit: FAudioDevice initialized.
+[2017.11.28-22.53.59:357][677]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.28-22.53.59:360][677]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare.Gabi_Nightmare up for play (max tick rate 60) at 2017.11.28-22.53.59
+[2017.11.28-22.53.59:360][677]LogWorld: Bringing up level for play took: 0.002380
+[2017.11.28-22.53.59:363][677]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare 1.079
+[2017.11.28-22.53.59:363][677]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare' with GeneratedClass '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare'
+[2017.11.28-22.54.12:501][464]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare' with GeneratedClass '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare'
+[2017.11.28-22.54.12:582][464]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare' with GeneratedClass '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare'
+[2017.11.28-22.54.45:905][115]BlueprintLog: New page: Compile Press_E
+[2017.11.28-22.54.48:033][133]LogSavePackage: Save=20.98ms
+[2017.11.28-22.54.48:033][133]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Saved/Press_E262A7D5948C3A8AF076D26A570531588.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/Press_E.uasset'
+[2017.11.28-22.54.48:038][133]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/Press_E.uasset
+[2017.11.28-22.54.51:727][335]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-22.54.51:746][335]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare' with GeneratedClass '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare'
+[2017.11.28-22.54.51:746][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-22.54.51:746][335]PIE: New page: PIE session: Gabi_Nightmare (28 Nov 2017 22:54:51)
+[2017.11.28-22.54.51:746][335]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare
+[2017.11.28-22.54.51:751][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004545s)
+[2017.11.28-22.54.51:752][335]LogAIModule: Creating AISystem for world Gabi_Nightmare
+[2017.11.28-22.54.51:752][335]LogPlayLevel: PIE: World Init took: (0.001212s)
+[2017.11.28-22.54.51:753][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare to /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare.Gabi_Nightmare (0.006231s)
+[2017.11.28-22.54.51:802][335]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-22.54.51:815][335]LogInit: FAudioDevice initialized.
+[2017.11.28-22.54.51:848][335]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.28-22.54.51:851][335]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare.Gabi_Nightmare up for play (max tick rate 60) at 2017.11.28-22.54.51
+[2017.11.28-22.54.51:851][335]LogWorld: Bringing up level for play took: 0.002095
+[2017.11.28-22.54.51:853][335]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare -0.429
+[2017.11.28-22.54.51:854][335]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare' with GeneratedClass '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare'
+[2017.11.28-22.55.12:708][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare' with GeneratedClass '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare'
+[2017.11.28-22.55.12:785][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare' with GeneratedClass '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare'
+[2017.11.28-22.55.14:509][667]LogSavePackage: Save=123.18ms
+[2017.11.28-22.55.14:509][667]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Saved/Gabi_NightmareD4F4040E4FCE24142C4E8299B1EB0EDD.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Maps/Gabi_Nightmare.umap'
+[2017.11.28-22.55.14:514][667]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Maps/Gabi_Nightmare.umap
+[2017.11.28-22.56.40:194][296]BlueprintLog: New page: Compile FirstPersonCharacter
+[2017.11.28-22.56.40:225][296]LogBlueprint: Warning: [DOOR_TriggerBox_Blueprint] 'Do_U_have_the_Key?' variable not found. Base class was probably changed.
+[2017.11.28-22.56.40:225][296]LogBlueprint: Warning: [DOOR_TriggerBox_Blueprint] 'Can_Unlock_Door?' variable not found. Base class was probably changed.
+[2017.11.28-23.00.11:412][207]BlueprintLog: New page: Compile Gabi_Nightmare
+[2017.11.28-23.00.11:428][207]LogBlueprint: Error: [Compiler PersistentLevel.Gabi_Nightmare] This blueprint (self) is not a FirstPersonCharacter_C, therefore ' Target ' must have a connection.
+[2017.11.28-23.00.11:429][207]LogBlueprint: Error: [Compiler PersistentLevel.Gabi_Nightmare] Variable node  Set Number_of_Keys  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2017.11.28-23.00.11:451][207]LogBlueprint: Warning: [Compiler PersistentLevel.Gabi_Nightmare] [6673.16] Compile of PersistentLevel.Gabi_Nightmare failed. 2 Fatal Issue(s) 0 Warning(s) [in 38 ms] (/Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare:PersistentLevel.Gabi_Nightmare)
+[2017.11.28-23.00.16:896][529]BlueprintLog: New page: Compile Gabi_Nightmare
+[2017.11.28-23.00.35:280][477]BlueprintLog: New page: Compile Gabi_Nightmare
+[2017.11.28-23.00.36:543][536]LogSavePackage: Save=117.50ms
+[2017.11.28-23.00.36:543][536]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Saved/Gabi_NightmareF66CFFD84A528E70E8CFBD8A8616EC8A.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Maps/Gabi_Nightmare.umap'
+[2017.11.28-23.00.36:549][536]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Maps/Gabi_Nightmare.umap
+[2017.11.28-23.00.36:577][536]LogFileHelpers: Saving map 'Gabi_Nightmare' took 0.256
+[2017.11.28-23.02.58:562][588]LogEditorTransaction: Undo Move Nodes
+[2017.11.28-23.04.53:719][696]BlueprintLog: New page: Compile Gabi_Nightmare
+[2017.11.28-23.04.55:963][816]LogSavePackage: Save=127.82ms
+[2017.11.28-23.04.55:963][816]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Saved/Gabi_Nightmare5A2665DF469EDEA4238AB5AFA6EC2BE1.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Maps/Gabi_Nightmare.umap'
+[2017.11.28-23.04.55:969][816]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Maps/Gabi_Nightmare.umap
