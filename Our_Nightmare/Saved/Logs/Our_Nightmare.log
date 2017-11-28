@@ -509,3 +509,144 @@ LogInit: Object subsystem initialized
 [2017.11.28-18.00.51:183][507]LogSavePackage: Save=25.48ms
 [2017.11.28-18.00.51:183][507]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Saved/Our_NightmareD4A5C3684F40C4136F862F918CFE805F.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Maps/Our_Nightmare.umap'
 [2017.11.28-18.00.51:193][507]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Maps/Our_Nightmare.umap
+[2017.11.28-18.10.51:628][444]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Our_Nightmare' took 0.014
+[2017.11.28-18.20.06:305][327]LogSavePackage: Save=21.21ms
+[2017.11.28-18.20.06:305][327]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Saved/Gabi_NightmareB86E78144B03BE7CA21F4B9D26A1B8F8.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Maps/Gabi_Nightmare.umap'
+[2017.11.28-18.20.06:310][327]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Maps/Gabi_Nightmare.umap
+[2017.11.28-18.20.06:312][327]LogFileHelpers: Saving map 'Gabi_Nightmare' took 0.110
+[2017.11.28-18.20.06:314][327]Cmd: MAP LOAD FILE="../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Maps/Gabi_Nightmare.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.28-18.20.06:315][327]LightingResults: New page: Lighting Build
+[2017.11.28-18.20.06:315][327]LoadErrors: New page: Loading map: Gabi_Nightmare.umap
+[2017.11.28-18.20.06:316][327]MapCheck: New page: Map Check
+[2017.11.28-18.20.06:316][327]LightingResults: New page: Lighting Build
+[2017.11.28-18.20.06:330][327]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.28-18.20.06:374][327]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.28-18.20.06:439][327]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.682ms to complete.
+[2017.11.28-18.20.06:442][327]LogFileHelpers: Loading map 'Gabi_Nightmare' took 0.129
+[2017.11.28-18.25.26:998][337]LogAIModule: Creating AISystem for world pabloNightmare
+[2017.11.28-18.25.28:483][337]LogSavePackage: Save=20.24ms
+[2017.11.28-18.25.28:483][337]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Saved/Gabi_NightmareCCD2CE194EC4E342CD52918789871BF3.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Maps/Gabi_Nightmare.umap'
+[2017.11.28-18.25.28:488][337]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Maps/Gabi_Nightmare.umap
+[2017.11.28-18.25.28:504][337]LogFileHelpers: Saving map 'Gabi_Nightmare' took 0.121
+[2017.11.28-18.25.28:504][337]Cmd: MAP LOAD FILE="../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Maps/pabloNightmare.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.28-18.25.28:505][337]LightingResults: New page: Lighting Build
+[2017.11.28-18.25.28:505][337]LoadErrors: New page: Loading map: pabloNightmare.umap
+[2017.11.28-18.25.28:506][337]MapCheck: New page: Map Check
+[2017.11.28-18.25.28:506][337]LightingResults: New page: Lighting Build
+[2017.11.28-18.25.28:517][337]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.28-18.25.28:542][337]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.28-18.25.28:606][337]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63.88ms to complete.
+[2017.11.28-18.25.28:607][337]LogFileHelpers: Loading map 'pabloNightmare' took 0.103
+[2017.11.28-18.25.30:007][419]LogAIModule: Creating AISystem for world Our_Nightmare
+[2017.11.28-18.25.30:020][419]Cmd: MAP LOAD FILE="../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Maps/Our_Nightmare.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.28-18.25.30:020][419]LightingResults: New page: Lighting Build
+[2017.11.28-18.25.30:021][419]LoadErrors: New page: Loading map: Our_Nightmare.umap
+[2017.11.28-18.25.30:022][419]MapCheck: New page: Map Check
+[2017.11.28-18.25.30:022][419]LightingResults: New page: Lighting Build
+[2017.11.28-18.25.30:035][419]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.28-18.25.30:060][419]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.28-18.25.30:130][419]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.288ms to complete.
+[2017.11.28-18.25.30:130][419]LogFileHelpers: Loading map 'Our_Nightmare' took 0.111
+[2017.11.28-18.25.31:382][492]LogAIModule: Creating AISystem for world Gabi_Nightmare
+[2017.11.28-18.25.31:396][492]Cmd: MAP LOAD FILE="../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Maps/Gabi_Nightmare.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.28-18.25.31:397][492]LightingResults: New page: Lighting Build
+[2017.11.28-18.25.31:397][492]LoadErrors: New page: Loading map: Gabi_Nightmare.umap
+[2017.11.28-18.25.31:398][492]MapCheck: New page: Map Check
+[2017.11.28-18.25.31:398][492]LightingResults: New page: Lighting Build
+[2017.11.28-18.25.31:409][492]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.28-18.25.31:435][492]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.28-18.25.31:499][492]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.334ms to complete.
+[2017.11.28-18.25.31:500][492]LogFileHelpers: Loading map 'Gabi_Nightmare' took 0.104
+[2017.11.28-18.32.36:225][770]LogActorFactory: Actor Factory created Door_Wall
+[2017.11.28-18.32.38:044][879]LogActorFactory: Actor Factory created Door_Wall
+[2017.11.28-18.33.09:573][765]LogLinker: Warning: Can't find file '/Game/Class_BluePrint/defaultMat'
+[2017.11.28-18.33.09:574][765]LogLinker: Warning: Can't find file for asset '/Game/Class_BluePrint/defaultMat' while loading ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/Move_to_BtheB/Jar_KEY.uasset.
+[2017.11.28-18.33.09:574][765]LoadErrors: Error: /Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/Move_to_BtheB/Jar_KEY : Can't find file for asset. /Game/Class_BluePrint/defaultMat
+[2017.11.28-18.33.09:574][765]LogLinker: Warning: Can't find file '/Game/Class_BluePrint/defaultMat'
+[2017.11.28-18.33.09:574][765]LogLinker: Warning: Can't find file for asset '/Game/Class_BluePrint/defaultMat' while loading ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/Move_to_BtheB/Jar_KEY.uasset.
+[2017.11.28-18.33.09:575][765]LogLinker: Warning: Can't find file '/Game/Class_BluePrint/defaultMat'
+[2017.11.28-18.33.09:575][765]LoadErrors: Failed to load /Game/Class_BluePrint/defaultMat.defaultMat Referenced by Jar_KEY
+[2017.11.28-18.33.09:575][765]LogLinker: Warning: Can't find file for asset '/Game/Class_BluePrint/defaultMat' while loading NULL.
+[2017.11.28-18.33.09:576][765]LogLinker: Warning: Can't find file '/Game/Class_BluePrint/defaultMat'
+[2017.11.28-18.33.09:576][765]LogLinker: Warning: Can't find file for asset '/Game/Class_BluePrint/defaultMat' while loading NULL.
+[2017.11.28-18.33.09:650][769]LogActorFactory: Actor Factory created Jar_KEY
+[2017.11.28-18.33.10:820][839]LogActorFactory: Actor Factory created Jar_KEY
+[2017.11.28-18.33.46:979][  3]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-18.33.46:992][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-18.33.46:992][  3]PIE: New page: PIE session: Gabi_Nightmare (28 Nov 2017 18:33:46)
+[2017.11.28-18.33.46:992][  3]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare
+[2017.11.28-18.33.46:995][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002662s)
+[2017.11.28-18.33.46:996][  3]LogAIModule: Creating AISystem for world Gabi_Nightmare
+[2017.11.28-18.33.46:996][  3]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2017.11.28-18.33.46:996][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Gabi_Nightmare.Gabi_Nightmare to /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare.Gabi_Nightmare (0.004066s)
+[2017.11.28-18.33.47:008][  3]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-18.33.47:022][  3]LogInit: FAudioDevice initialized.
+[2017.11.28-18.33.47:053][  3]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.11.28-18.33.47:055][  3]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare.Gabi_Nightmare up for play (max tick rate 60) at 2017.11.28-18.33.47
+[2017.11.28-18.33.47:055][  3]LogWorld: Bringing up level for play took: 0.001091
+[2017.11.28-18.33.47:057][  3]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Gabi_Nightmare 0.849
+[2017.11.28-18.33.59:093][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Jar_KEY)
+[2017.11.28-18.33.59:421][738]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.11.28-18.34.11:070][435]LogLinker: Warning: Can't find file '/Game/Class_BluePrint/Its_Locked'
+[2017.11.28-18.34.11:070][435]LogLinker: Warning: Can't find file for asset '/Game/Class_BluePrint/Its_Locked' while loading ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/Move_to_BtheB/DOOR_TriggerBox_Blueprint.uasset.
+[2017.11.28-18.34.11:071][435]LoadErrors: Error: /Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/Move_to_BtheB/DOOR_TriggerBox_Blueprint : Can't find file for asset. /Game/Class_BluePrint/Its_Locked
+[2017.11.28-18.34.11:071][435]LogLinker: Warning: Can't find file '/Game/Class_BluePrint/Press_E'
+[2017.11.28-18.34.11:071][435]LogLinker: Warning: Can't find file for asset '/Game/Class_BluePrint/Press_E' while loading ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/Move_to_BtheB/DOOR_TriggerBox_Blueprint.uasset.
+[2017.11.28-18.34.11:071][435]LoadErrors: Error: /Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/Move_to_BtheB/DOOR_TriggerBox_Blueprint : Can't find file for asset. /Game/Class_BluePrint/Press_E
+[2017.11.28-18.34.11:071][435]LogLinker: Warning: Can't find file '/Game/Class_BluePrint/Its_Locked'
+[2017.11.28-18.34.11:072][435]LogLinker: Warning: Can't find file for asset '/Game/Class_BluePrint/Its_Locked' while loading ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/Move_to_BtheB/DOOR_TriggerBox_Blueprint.uasset.
+[2017.11.28-18.34.11:072][435]LogLinker: Warning: Can't find file '/Game/Class_BluePrint/Press_E'
+[2017.11.28-18.34.11:072][435]LogLinker: Warning: Can't find file for asset '/Game/Class_BluePrint/Press_E' while loading ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/Move_to_BtheB/DOOR_TriggerBox_Blueprint.uasset.
+[2017.11.28-18.34.11:076][435]LogLinker: Warning: Can't find file '/Game/Class_BluePrint/Its_Locked'
+[2017.11.28-18.34.11:076][435]LogLinker: Warning: Can't find file for asset '/Game/Class_BluePrint/Its_Locked' while loading NULL.
+[2017.11.28-18.34.11:076][435]LogLinker: Warning: Can't find file '/Game/Class_BluePrint/Press_E'
+[2017.11.28-18.34.11:076][435]LogLinker: Warning: Can't find file for asset '/Game/Class_BluePrint/Press_E' while loading NULL.
+[2017.11.28-18.34.11:076][435]LogLinker: Warning: Can't find file '/Game/Class_BluePrint/Its_Locked'
+[2017.11.28-18.34.11:076][435]LogLinker: Warning: Can't find file for asset '/Game/Class_BluePrint/Its_Locked' while loading NULL.
+[2017.11.28-18.34.11:076][435]LogLinker: Warning: Can't find file '/Game/Class_BluePrint/Press_E'
+[2017.11.28-18.34.11:076][435]LogLinker: Warning: Can't find file for asset '/Game/Class_BluePrint/Press_E' while loading NULL.
+[2017.11.28-18.34.11:077][435]LogLinker: Warning: Can't find file '/Game/Class_BluePrint/Its_Locked'
+[2017.11.28-18.34.11:077][435]LogLinker: Warning: Can't find file for asset '/Game/Class_BluePrint/Its_Locked' while loading NULL.
+[2017.11.28-18.34.11:077][435]LogLinker: Warning: Can't find file '/Game/Class_BluePrint/Press_E'
+[2017.11.28-18.34.11:077][435]LogLinker: Warning: Can't find file for asset '/Game/Class_BluePrint/Press_E' while loading NULL.
+[2017.11.28-18.34.11:079][435]LogLinker: Warning: Can't find file '/Game/Class_BluePrint/Press_E'
+[2017.11.28-18.34.11:079][435]LoadErrors: Failed to load /Game/Class_BluePrint/Press_E.Press_E_C Referenced by K2Node_CreateWidget_0
+[2017.11.28-18.34.11:079][435]LogLinker: Warning: Can't find file for asset '/Game/Class_BluePrint/Press_E' while loading NULL.
+[2017.11.28-18.34.11:079][435]LogLinker: Warning: Can't find file '/Game/Class_BluePrint/Press_E'
+[2017.11.28-18.34.11:079][435]LogLinker: Warning: Can't find file for asset '/Game/Class_BluePrint/Press_E' while loading NULL.
+[2017.11.28-18.34.11:080][435]LogLinker: Warning: Can't find file '/Game/Class_BluePrint/Its_Locked'
+[2017.11.28-18.34.11:080][435]LoadErrors: Failed to load /Game/Class_BluePrint/Its_Locked.Its_Locked_C Referenced by K2Node_CreateWidget_2
+[2017.11.28-18.34.11:080][435]LogLinker: Warning: Can't find file for asset '/Game/Class_BluePrint/Its_Locked' while loading NULL.
+[2017.11.28-18.34.11:080][435]LogLinker: Warning: Can't find file '/Game/Class_BluePrint/Its_Locked'
+[2017.11.28-18.34.11:080][435]LogLinker: Warning: Can't find file for asset '/Game/Class_BluePrint/Its_Locked' while loading NULL.
+[2017.11.28-18.34.11:083][435]LogBlueprint: Warning: [DOOR_TriggerBox_Blueprint] 'Do_U_have_the_Key?' variable not found. Base class was probably changed.
+[2017.11.28-18.34.11:083][435]LogBlueprint: Warning: [DOOR_TriggerBox_Blueprint] 'Do_U_have_the_Key?' variable not found. Base class was probably changed.
+[2017.11.28-18.34.11:084][435]LogBlueprint: Warning: [DOOR_TriggerBox_Blueprint] 'Do_U_have_the_Key?' variable not found. Base class was probably changed.
+[2017.11.28-18.34.11:084][435]LogBlueprint: Warning: [DOOR_TriggerBox_Blueprint] 'Can_Unlock_Door?' variable not found. Base class was probably changed.
+[2017.11.28-18.34.11:086][435]LogBlueprint: Error: [Compiler DOOR_TriggerBox_Blueprint] Spawn node  Create Widget  must have a class specified.
+[2017.11.28-18.34.11:086][435]LogBlueprint: Error: [Compiler DOOR_TriggerBox_Blueprint] Spawn node  Create Widget  must have a class specified.
+[2017.11.28-18.34.11:088][435]LogBlueprint: Warning: [Compiler DOOR_TriggerBox_Blueprint] [8695.25] Compile of DOOR_TriggerBox_Blueprint failed. 2 Fatal Issue(s) 0 Warning(s) [in 7 ms] (/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/Move_to_BtheB/DOOR_TriggerBox_Blueprint.DOOR_TriggerBox_Blueprint)
+[2017.11.28-18.35.38:409][667]LogSavePackage: Save=27.31ms
+[2017.11.28-18.35.38:409][667]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Saved/Gabi_Nightmare_Auto38BD31CEB4F66B4902CD0BAB8C6E44319.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Saved/Autosaves/Game/FirstPersonBP/Maps/Gabi_Nightmare_Auto3.umap'
+[2017.11.28-18.35.38:411][667]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Saved/Autosaves/Game/FirstPersonBP/Maps/Gabi_Nightmare_Auto3.umap
+[2017.11.28-18.35.38:413][667]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Gabi_Nightmare' took 0.047
+[2017.11.28-18.35.38:413][667]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.047
+[2017.11.28-18.35.59:237][916]LogSlate: Took 0.001265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.28-18.36.01:036][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Jar_KEY)
+[2017.11.28-18.36.19:392][116]LogSavePackage: Save=24.19ms
+[2017.11.28-18.36.19:392][116]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Saved/Gabi_NightmareDF16AA57409D32911BB52DB07016ED70.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Maps/Gabi_Nightmare.umap'
+[2017.11.28-18.36.19:398][116]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Maps/Gabi_Nightmare.umap
+[2017.11.28-18.36.27:065][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Jar_KEY)
+[2017.11.28-18.36.27:129][576]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.11.28-18.36.30:122][754]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.11.28-18.36.30:211][759]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Jar_KEY)
+[2017.11.28-18.36.30:450][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Jar_KEY)
+[2017.11.28-18.37.04:247][787]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-18.37.04:258][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-18.37.09:366][992]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.11.28-18.37.09:441][993]LogEditorViewport: Clicking on Actor (double click): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.11.28-18.37.12:798][166]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 113 classes and 0 folders.
+[2017.11.28-18.37.13:511][166]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.28-18.43.06:195][656]LogSavePackage: Save=45.89ms
+[2017.11.28-18.43.06:195][656]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Saved/Gabi_Nightmare89652B534B9E44832DAEBA8D03E2D07E.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Maps/Gabi_Nightmare.umap'
+[2017.11.28-18.43.06:202][656]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Bill/Our_Nightmare/Content/FirstPersonBP/Maps/Gabi_Nightmare.umap
