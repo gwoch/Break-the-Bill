@@ -316,3 +316,397 @@ LogInit: Object subsystem initialized
 [2017.12.08-10.20.50:041][466]LogSavePackage: Save=174.44ms
 [2017.12.08-10.20.50:041][466]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Gabi_Nightmare9244BBFE4EEF26BC9928B0A532C115DC.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/FirstPersonBP/Maps/Gabi_Nightmare.umap'
 [2017.12.08-10.20.50:043][466]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/FirstPersonBP/Maps/Gabi_Nightmare.umap
+[2017.12.08-10.25.08:713][372]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/Gnome with UV 3_lambert3SG_BaseColor.png)
+[2017.12.08-10.25.09:522][372]LogTexture: Display: Building textures: Gnome_with_UV_3_lambert3SG_BaseColor (AutoDXT, 4096X4096)
+[2017.12.08-10.25.12:479][372]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/Gnome with UV 3_lambert3SG_Normal.png)
+[2017.12.08-10.25.13:453][372]LogTexture: Display: Building textures: Gnome_with_UV_3_lambert3SG_Normal (AutoDXT, 4096X4096)
+[2017.12.08-10.25.18:012][372]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/Gnome with UV 3_lambert3SG_OcclusionRoughnessMetallic.png)
+[2017.12.08-10.25.18:806][372]LogTexture: Display: Building textures: Gnome_with_UV_3_lambert3SG_OcclusionRoughnessMetallic (AutoDXT, 4096X4096)
+[2017.12.08-10.25.20:802][372]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/KEY_lambert3SG_BaseColor.png)
+[2017.12.08-10.25.21:113][372]LogTexture: Display: Building textures: KEY_lambert3SG_BaseColor (AutoDXT, 2048X2048)
+[2017.12.08-10.25.21:714][372]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/KEY_lambert3SG_Normal.png)
+[2017.12.08-10.25.22:059][372]LogTexture: Display: Building textures: KEY_lambert3SG_Normal (BC5, 2048X2048)
+[2017.12.08-10.25.22:383][372]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.08-10.25.22:415][372]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/KEY_lambert3SG_OcclusionRoughnessMetallic.png)
+[2017.12.08-10.25.22:690][372]LogTexture: Display: Building textures: KEY_lambert3SG_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2017.12.08-10.25.29:341][475]LogSavePackage: Save=166.45ms
+[2017.12.08-10.25.29:341][475]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Gabi_Nightmare5541BA234B0E49855E78E2B13B610E31.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/FirstPersonBP/Maps/Gabi_Nightmare.umap'
+[2017.12.08-10.25.29:344][475]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/FirstPersonBP/Maps/Gabi_Nightmare.umap
+[2017.12.08-10.35.29:560][462]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Gabi_Nightmare' took 0.035
+[2017.12.08-10.35.29:567][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3_lambert3SG_BaseColor] ([1] browsable assets)...
+[2017.12.08-10.35.29:619][462]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3_lambert3SG_BaseColor.Gnome_with_UV_3_lambert3SG_BaseColor]
+[2017.12.08-10.35.29:619][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3_lambert3SG_BaseColor]
+[2017.12.08-10.35.29:739][462]LogSavePackage: Save=114.86ms
+[2017.12.08-10.35.29:739][462]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Gnome_with_UV_3_lambert3SG_BaseColor_Auto1431887ED462B3B4DFA3E7ABC9DA6DD2A.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Autosaves/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3_lambert3SG_BaseColor_Auto1.uasset'
+[2017.12.08-10.35.29:744][462]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Autosaves/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3_lambert3SG_BaseColor_Auto1.uasset
+[2017.12.08-10.35.29:747][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3] ([1] browsable assets)...
+[2017.12.08-10.35.29:793][462]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3.Gnome_with_UV_3]
+[2017.12.08-10.35.29:793][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3]
+[2017.12.08-10.35.29:825][462]LogSavePackage: Save=26.75ms
+[2017.12.08-10.35.29:825][462]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Gnome_with_UV_3_Auto1961FB3E349AA8EC38067DF951DA17162.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Autosaves/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3_Auto1.uasset'
+[2017.12.08-10.35.29:829][462]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Autosaves/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3_Auto1.uasset
+[2017.12.08-10.35.29:832][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/polySurface1Mat] ([1] browsable assets)...
+[2017.12.08-10.35.29:874][462]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/polySurface1Mat.polySurface1Mat]
+[2017.12.08-10.35.29:874][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/polySurface1Mat]
+[2017.12.08-10.35.29:901][462]LogSavePackage: Save=23.46ms
+[2017.12.08-10.35.29:901][462]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/polySurface1Mat_Auto1C6AFB9D0470D4E63BDB87E82DB3170AF.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Autosaves/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/polySurface1Mat_Auto1.uasset'
+[2017.12.08-10.35.29:905][462]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Autosaves/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/polySurface1Mat_Auto1.uasset
+[2017.12.08-10.35.29:907][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Rusty_KEY] ([1] browsable assets)...
+[2017.12.08-10.35.29:950][462]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Rusty_KEY.Rusty_KEY]
+[2017.12.08-10.35.29:950][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Rusty_KEY]
+[2017.12.08-10.35.29:978][462]LogSavePackage: Save=24.95ms
+[2017.12.08-10.35.29:979][462]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Rusty_KEY_Auto168CE96E5467E6A412EE80487E897EBCB.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Autosaves/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Rusty_KEY_Auto1.uasset'
+[2017.12.08-10.35.29:983][462]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Autosaves/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Rusty_KEY_Auto1.uasset
+[2017.12.08-10.35.29:986][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/lambert3SG] ([1] browsable assets)...
+[2017.12.08-10.35.30:030][462]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/lambert3SG.lambert3SG]
+[2017.12.08-10.35.30:030][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/lambert3SG]
+[2017.12.08-10.35.30:060][462]LogSavePackage: Save=24.90ms
+[2017.12.08-10.35.30:060][462]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/lambert3SG_Auto1D118AC4A46DFEBEFA565E0B00352D790.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Autosaves/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/lambert3SG_Auto1.uasset'
+[2017.12.08-10.35.30:064][462]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Autosaves/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/lambert3SG_Auto1.uasset
+[2017.12.08-10.35.30:066][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3_lambert3SG_Normal] ([1] browsable assets)...
+[2017.12.08-10.35.30:085][462]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3_lambert3SG_Normal.Gnome_with_UV_3_lambert3SG_Normal]
+[2017.12.08-10.35.30:085][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3_lambert3SG_Normal]
+[2017.12.08-10.35.30:178][462]LogSavePackage: Save=90.25ms
+[2017.12.08-10.35.30:178][462]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Gnome_with_UV_3_lambert3SG_Normal_Auto14405EB5E437FF8895D3DCB8162FCA60F.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Autosaves/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3_lambert3SG_Normal_Auto1.uasset'
+[2017.12.08-10.35.30:181][462]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Autosaves/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3_lambert3SG_Normal_Auto1.uasset
+[2017.12.08-10.35.30:182][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3_lambert3SG_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2017.12.08-10.35.30:192][462]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3_lambert3SG_OcclusionRoughnessMetallic.Gnome_with_UV_3_lambert3SG_OcclusionRoughnessMetallic]
+[2017.12.08-10.35.30:192][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3_lambert3SG_OcclusionRoughnessMetallic]
+[2017.12.08-10.35.30:281][462]LogSavePackage: Save=87.40ms
+[2017.12.08-10.35.30:281][462]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Gnome_with_UV_3_lambert3SG_OcclusionRoughnessMetallic_Auto1BA9D26A74C5A9D23EDE90990CD720C2A.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Autosaves/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3_lambert3SG_OcclusionRoughnessMetallic_Auto1.uasset'
+[2017.12.08-10.35.30:284][462]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Autosaves/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3_lambert3SG_OcclusionRoughnessMetallic_Auto1.uasset
+[2017.12.08-10.35.30:286][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/KEY_lambert3SG_BaseColor] ([1] browsable assets)...
+[2017.12.08-10.35.30:335][462]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/KEY_lambert3SG_BaseColor.KEY_lambert3SG_BaseColor]
+[2017.12.08-10.35.30:335][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/KEY_lambert3SG_BaseColor]
+[2017.12.08-10.35.30:402][462]LogSavePackage: Save=62.82ms
+[2017.12.08-10.35.30:402][462]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/KEY_lambert3SG_BaseColor_Auto1C85D3AF1421EC8982704CFA151E7F4AA.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Autosaves/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/KEY_lambert3SG_BaseColor_Auto1.uasset'
+[2017.12.08-10.35.30:407][462]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Autosaves/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/KEY_lambert3SG_BaseColor_Auto1.uasset
+[2017.12.08-10.35.30:410][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/KEY_lambert3SG_Normal] ([1] browsable assets)...
+[2017.12.08-10.35.30:431][462]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/KEY_lambert3SG_Normal.KEY_lambert3SG_Normal]
+[2017.12.08-10.35.30:431][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/KEY_lambert3SG_Normal]
+[2017.12.08-10.35.30:532][462]LogSavePackage: Save=95.90ms
+[2017.12.08-10.35.30:532][462]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/KEY_lambert3SG_Normal_Auto1671800D5428B9F832EAA1FAD03F686A9.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Autosaves/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/KEY_lambert3SG_Normal_Auto1.uasset'
+[2017.12.08-10.35.30:537][462]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Autosaves/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/KEY_lambert3SG_Normal_Auto1.uasset
+[2017.12.08-10.35.30:540][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/KEY_lambert3SG_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2017.12.08-10.35.30:588][462]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/KEY_lambert3SG_OcclusionRoughnessMetallic.KEY_lambert3SG_OcclusionRoughnessMetallic]
+[2017.12.08-10.35.30:588][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/KEY_lambert3SG_OcclusionRoughnessMetallic]
+[2017.12.08-10.35.30:661][462]LogSavePackage: Save=69.38ms
+[2017.12.08-10.35.30:661][462]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/KEY_lambert3SG_OcclusionRoughnessMetallic_Auto10974FEA14558AB1A33F9E6B683E0A36A.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Autosaves/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/KEY_lambert3SG_OcclusionRoughnessMetallic_Auto1.uasset'
+[2017.12.08-10.35.30:667][462]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Autosaves/Game/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/KEY_lambert3SG_OcclusionRoughnessMetallic_Auto1.uasset
+[2017.12.08-10.35.30:667][462]LogFileHelpers: Auto-saving content packages took 1.105
+[2017.12.08-10.57.56:792][556]LogSavePackage: Save=12.65ms
+[2017.12.08-10.57.56:792][556]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Gnome_with_UV_3736397644488B98BDA8B0B93CEFD997A.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3.uasset'
+[2017.12.08-10.57.56:798][556]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3.uasset
+[2017.12.08-10.57.58:387][556]LogSavePackage: Save=1474.70ms
+[2017.12.08-10.57.58:387][556]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Gnome_with_UV_3_lambert3SG_BaseColor36C5D9E8461F75BC2425B0B5407EE606.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3_lambert3SG_BaseColor.uasset'
+[2017.12.08-10.57.58:391][556]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3_lambert3SG_BaseColor.uasset
+[2017.12.08-10.58.00:966][556]LogSavePackage: Save=2446.84ms
+[2017.12.08-10.58.00:966][556]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Gnome_with_UV_3_lambert3SG_Normal86EA589D40078B8BBE13E389D33D065A.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3_lambert3SG_Normal.uasset'
+[2017.12.08-10.58.00:971][556]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3_lambert3SG_Normal.uasset
+[2017.12.08-10.58.01:800][556]LogSavePackage: Save=722.86ms
+[2017.12.08-10.58.01:800][556]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Gnome_with_UV_3_lambert3SG_OcclusionRoughnessMetallicF4D7308746FE0170129440B8B17BD19E.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3_lambert3SG_OcclusionRoughnessMetallic.uasset'
+[2017.12.08-10.58.01:804][556]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Gnome_with_UV_3_lambert3SG_OcclusionRoughnessMetallic.uasset
+[2017.12.08-10.58.02:585][556]LogSavePackage: Save=640.10ms
+[2017.12.08-10.58.02:585][556]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/KEY_lambert3SG_BaseColor77261F9D441F19DDC0FD18AC6523FD72.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/KEY_lambert3SG_BaseColor.uasset'
+[2017.12.08-10.58.02:589][556]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/KEY_lambert3SG_BaseColor.uasset
+[2017.12.08-10.58.03:742][556]LogSavePackage: Save=1011.87ms
+[2017.12.08-10.58.03:742][556]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/KEY_lambert3SG_NormalAA0782F34A6C472602E7089A528D6DDE.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/KEY_lambert3SG_Normal.uasset'
+[2017.12.08-10.58.03:747][556]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/KEY_lambert3SG_Normal.uasset
+[2017.12.08-10.58.04:344][556]LogSavePackage: Save=478.37ms
+[2017.12.08-10.58.04:344][556]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/KEY_lambert3SG_OcclusionRoughnessMetallicFCEC250D4DF38C47BC7A8EBEF1F4AB0B.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/KEY_lambert3SG_OcclusionRoughnessMetallic.uasset'
+[2017.12.08-10.58.04:347][556]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/KEY_lambert3SG_OcclusionRoughnessMetallic.uasset
+[2017.12.08-10.58.04:565][556]LogSavePackage: Save=30.08ms
+[2017.12.08-10.58.04:565][556]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/lambert3SGF4DE364340594BED4961878CFDC33FE5.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/lambert3SG.uasset'
+[2017.12.08-10.58.04:573][556]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/lambert3SG.uasset
+[2017.12.08-10.58.04:766][556]LogSavePackage: Save=30.71ms
+[2017.12.08-10.58.04:766][556]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/polySurface1MatF016F214440A58E144655FAABD061493.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/polySurface1Mat.uasset'
+[2017.12.08-10.58.04:777][556]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/polySurface1Mat.uasset
+[2017.12.08-10.58.04:950][556]LogSavePackage: Save=30.15ms
+[2017.12.08-10.58.04:950][556]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Rusty_KEYCFA077F74C07574EADA533BD4B3C9AB5.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Rusty_KEY.uasset'
+[2017.12.08-10.58.04:961][556]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/FirstPersonBP/Gabi_Assets/Class_BluePrint/StaticMesh/Rusty_KEY.uasset
+[2017.12.08-10.58.05:401][557]Cmd: QUIT_EDITOR
+[2017.12.08-10.58.05:479][557]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.08-10.58.05:479][557]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.08-10.58.05:515][557]LogExit: Preparing to exit.
+[2017.12.08-10.58.05:798][557]LogDirectoryWatcher: A directory notification for 'C:/Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/' was aborted.
+[2017.12.08-10.58.05:838][557]LogExit: Editor shut down
+[2017.12.08-10.58.05:862][557]LogExit: Transaction tracking system shut down
+[2017.12.08-10.58.06:003][557]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.08-10.58.06:003][557]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/' was aborted.
+[2017.12.08-10.58.06:003][557]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.08-10.58.06:003][557]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.08-10.58.06:004][557]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.12.08-10.58.06:167][557]LogExit: Object subsystem successfully closed.
+[2017.12.08-10.58.06:206][557]LogD3D11RHI: Shutdown
+[2017.12.08-10.58.06:206][557]LogD3D11RHI: CleanupD3DDevice
+[2017.12.08-10.58.06:432][557]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.08-10.58.06:484][557]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.12.08-10.58.06:484][557]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.12.08-10.58.06:484][557]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.12.08-10.58.06:485][557]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.12.08-10.58.06:486][557]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.12.08-10.58.06:486][557]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.12.08-10.58.06:486][557]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.12.08-10.58.06:487][557]LogDirectoryWatcher: A directory notification for 'C:/Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/Collections/' was aborted.
+[2017.12.08-10.58.06:487][557]LogDirectoryWatcher: A directory notification for 'C:/Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Content/Developers/Leszek/Collections/' was aborted.
+[2017.12.08-10.58.06:487][557]LogDirectoryWatcher: A directory notification for 'C:/Users/Leszek/Documents/Unreal Projects/Break_the_Build/Our_Nightmare/Saved/Collections/' was aborted.
+[2017.12.08-10.58.06:487][557]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.12.08-10.58.06:487][557]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.12.08-10.58.06:487][557]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.12.08-10.58.06:488][557]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.12.08-10.58.06:488][557]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.12.08-10.58.06:488][557]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.12.08-10.58.06:488][557]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.12.08-10.58.06:488][557]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.12.08-10.58.06:488][557]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.12.08-10.58.06:488][557]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.12.08-10.58.06:488][557]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.12.08-10.58.06:488][557]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.12.08-10.58.06:488][557]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.12.08-10.58.06:488][557]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.12.08-10.58.06:488][557]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.12.08-10.58.06:489][557]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.12.08-10.58.06:489][557]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.12.08-10.58.06:489][557]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.12.08-10.58.06:489][557]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.12.08-10.58.06:489][557]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.12.08-10.58.06:489][557]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.12.08-10.58.06:489][557]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.12.08-10.58.06:489][557]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.12.08-10.58.06:489][557]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.12.08-10.58.06:489][557]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.12.08-10.58.06:489][557]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.12.08-10.58.06:489][557]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.12.08-10.58.06:489][557]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.12.08-10.58.06:489][557]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.12.08-10.58.06:489][557]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.12.08-10.58.06:489][557]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.12.08-10.58.06:490][557]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.12.08-10.58.06:490][557]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.12.08-10.58.06:490][557]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.12.08-10.58.06:490][557]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.12.08-10.58.06:490][557]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.12.08-10.58.06:490][557]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.12.08-10.58.06:490][557]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.12.08-10.58.06:931][557]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.12.08-10.58.06:931][557]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.12.08-10.58.06:931][557]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.12.08-10.58.06:931][557]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.12.08-10.58.06:931][557]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.12.08-10.58.06:932][557]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.12.08-10.58.06:932][557]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.12.08-10.58.06:932][557]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.12.08-10.58.06:932][557]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.12.08-10.58.06:932][557]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.12.08-10.58.06:933][557]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.12.08-10.58.06:933][557]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.12.08-10.58.06:933][557]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.12.08-10.58.06:933][557]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.12.08-10.58.06:933][557]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.12.08-10.58.06:933][557]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.12.08-10.58.06:933][557]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.12.08-10.58.06:933][557]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.12.08-10.58.06:933][557]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.12.08-10.58.06:934][557]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.12.08-10.58.06:934][557]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.12.08-10.58.06:934][557]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.12.08-10.58.06:935][557]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.12.08-10.58.06:935][557]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.12.08-10.58.06:988][557]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.12.08-10.58.06:988][557]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.12.08-10.58.06:989][557]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.12.08-10.58.06:990][557]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.12.08-10.58.06:990][557]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.12.08-10.58.06:990][557]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.12.08-10.58.06:991][557]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.12.08-10.58.06:992][557]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.12.08-10.58.06:992][557]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.12.08-10.58.06:992][557]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.12.08-10.58.06:993][557]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.12.08-10.58.06:993][557]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.12.08-10.58.06:993][557]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.12.08-10.58.06:994][557]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.12.08-10.58.06:994][557]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.12.08-10.58.06:994][557]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.12.08-10.58.06:994][557]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.12.08-10.58.06:994][557]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.12.08-10.58.06:994][557]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.12.08-10.58.06:994][557]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.12.08-10.58.06:994][557]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.12.08-10.58.06:995][557]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.12.08-10.58.06:995][557]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.12.08-10.58.06:995][557]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.12.08-10.58.06:995][557]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.12.08-10.58.06:995][557]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.12.08-10.58.06:995][557]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.12.08-10.58.06:995][557]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.12.08-10.58.06:995][557]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.12.08-10.58.06:996][557]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.12.08-10.58.06:996][557]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.12.08-10.58.07:145][557]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.12.08-10.58.07:146][557]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.12.08-10.58.07:146][557]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.12.08-10.58.07:146][557]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.12.08-10.58.07:146][557]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.12.08-10.58.07:146][557]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.12.08-10.58.07:146][557]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.12.08-10.58.07:146][557]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.12.08-10.58.07:146][557]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.12.08-10.58.07:146][557]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.12.08-10.58.07:146][557]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.12.08-10.58.07:147][557]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.12.08-10.58.07:147][557]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.12.08-10.58.07:147][557]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.12.08-10.58.07:147][557]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.12.08-10.58.07:147][557]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.12.08-10.58.07:147][557]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.12.08-10.58.07:147][557]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.12.08-10.58.07:148][557]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.12.08-10.58.07:148][557]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.12.08-10.58.07:149][557]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.12.08-10.58.07:149][557]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.12.08-10.58.07:149][557]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.12.08-10.58.07:149][557]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.12.08-10.58.07:149][557]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.12.08-10.58.07:149][557]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.12.08-10.58.07:149][557]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.12.08-10.58.07:149][557]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.12.08-10.58.07:149][557]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.12.08-10.58.07:149][557]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.12.08-10.58.07:149][557]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.12.08-10.58.07:150][557]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.12.08-10.58.07:151][557]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.12.08-10.58.07:152][557]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.12.08-10.58.07:152][557]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.12.08-10.58.07:153][557]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.12.08-10.58.07:153][557]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.12.08-10.58.07:153][557]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.12.08-10.58.07:153][557]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.12.08-10.58.07:153][557]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.12.08-10.58.07:153][557]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.12.08-10.58.07:153][557]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.12.08-10.58.07:153][557]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.12.08-10.58.07:254][557]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.12.08-10.58.07:354][557]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.12.08-10.58.07:355][557]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.12.08-10.58.07:355][557]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.12.08-10.58.07:355][557]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.12.08-10.58.07:355][557]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.12.08-10.58.07:357][557]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.12.08-10.58.07:360][557]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.12.08-10.58.07:360][557]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.12.08-10.58.07:360][557]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.12.08-10.58.07:360][557]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.12.08-10.58.07:365][557]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.12.08-10.58.07:365][557]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.12.08-10.58.07:365][557]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.12.08-10.58.07:365][557]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.12.08-10.58.07:365][557]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.12.08-10.58.07:366][557]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.12.08-10.58.07:366][557]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.12.08-10.58.07:366][557]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.12.08-10.58.07:366][557]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.12.08-10.58.07:366][557]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.12.08-10.58.07:367][557]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.12.08-10.58.07:367][557]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.12.08-10.58.07:368][557]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.12.08-10.58.07:368][557]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.12.08-10.58.07:368][557]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.12.08-10.58.07:368][557]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.12.08-10.58.07:368][557]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.12.08-10.58.07:368][557]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.12.08-10.58.07:369][557]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.12.08-10.58.07:369][557]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.12.08-10.58.07:377][557]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.12.08-10.58.07:377][557]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.12.08-10.58.07:377][557]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.12.08-10.58.07:377][557]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.12.08-10.58.07:377][557]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.12.08-10.58.07:377][557]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.12.08-10.58.07:377][557]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.12.08-10.58.07:377][557]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.12.08-10.58.07:377][557]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.12.08-10.58.07:378][557]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.12.08-10.58.07:378][557]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.12.08-10.58.07:378][557]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.12.08-10.58.07:378][557]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.12.08-10.58.07:379][557]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.12.08-10.58.07:379][557]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.12.08-10.58.07:379][557]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.12.08-10.58.07:382][557]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.12.08-10.58.07:420][557]LogDerivedDataCache: Shutdown
+[2017.12.08-10.58.07:420][557]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.12.08-10.58.07:420][557]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.12.08-10.58.07:420][557]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.12.08-10.58.07:421][557]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.12.08-10.58.07:421][557]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.12.08-10.58.07:421][557]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.12.08-10.58.07:422][557]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.12.08-10.58.07:422][557]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.12.08-10.58.07:422][557]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.12.08-10.58.07:422][557]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.12.08-10.58.07:422][557]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.12.08-10.58.07:422][557]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.12.08-10.58.07:422][557]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.12.08-10.58.07:422][557]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.12.08-10.58.07:423][557]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.12.08-10.58.07:423][557]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.12.08-10.58.07:423][557]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.12.08-10.58.07:423][557]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.12.08-10.58.07:423][557]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.12.08-10.58.07:423][557]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.12.08-10.58.07:423][557]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.12.08-10.58.07:423][557]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.12.08-10.58.07:423][557]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.12.08-10.58.07:423][557]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.12.08-10.58.07:423][557]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.12.08-10.58.07:423][557]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.12.08-10.58.07:423][557]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.12.08-10.58.07:423][557]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.12.08-10.58.07:423][557]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.12.08-10.58.07:423][557]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.12.08-10.58.07:424][557]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.12.08-10.58.07:424][557]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.12.08-10.58.07:424][557]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.12.08-10.58.07:424][557]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.12.08-10.58.07:424][557]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.12.08-10.58.07:424][557]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.12.08-10.58.07:424][557]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.12.08-10.58.07:424][557]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.12.08-10.58.07:424][557]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.12.08-10.58.07:424][557]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.12.08-10.58.07:424][557]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.12.08-10.58.07:424][557]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.12.08-10.58.07:424][557]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.12.08-10.58.07:425][557]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.12.08-10.58.07:425][557]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.12.08-10.58.07:425][557]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.12.08-10.58.07:425][557]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.12.08-10.58.07:425][557]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.08-10.58.07:425][557]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.08-10.58.07:425][557]LogOnline: Display: Unloading online subsystem: NULL
+[2017.12.08-10.58.07:426][557]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.08-10.58.07:426][557]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.08-10.58.07:426][557]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.08-10.58.07:426][557]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDBED95AD-475A-33FF-A920-C4BFCF478F4A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=a202bbab4bfb72a6c72ab59bf5105770%7Ca6b7376151474e159cf10430cd50646e%7C20bc636a-a4d7-41a8-a2dc-7238c7cddcf0&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.08-10.58.07:438][557]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.08-10.58.07:442][557]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.08-10.58.07:443][557]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.08-10.58.07:443][557]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.08-10.58.07:443][557]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.08-10.58.07:443][557]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.08-10.58.07:443][557]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.08-10.58.07:443][557]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.08-10.58.07:445][557]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.08-10.58.07:445][557]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.08-10.58.07:445][557]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.08-10.58.07:445][557]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.08-10.58.07:445][557]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.08-10.58.07:445][557]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.08-10.58.07:445][557]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.08-10.58.07:445][557]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.08-10.58.07:445][557]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.08-10.58.07:445][557]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.08-10.58.07:446][557]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.08-10.58.07:455][557]LogExit: Exiting.
+[2017.12.08-10.58.07:511][557]Log file closed, 12/08/17 10:58:07
